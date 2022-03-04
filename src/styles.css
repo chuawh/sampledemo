@@ -1,0 +1,8 @@
+.customized-app {
+  height: 99vh;
+}
+
+.sendbird-app__wrap {
+  display: flex;
+  flex-direction: row;
+}
